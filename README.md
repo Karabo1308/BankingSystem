@@ -17,7 +17,7 @@ A simple console-based banking system built in Java for handling accounts, depos
 ## How to Run
 1. Clone the repository: 
    git clone https://github.com/Karabo1308/BankingSystem.git
-2. Open in NetBeans / IntelliJ / VS Code
+2. Open in NetBeans 
 3. Run `BankingSystem.java`
 
 
